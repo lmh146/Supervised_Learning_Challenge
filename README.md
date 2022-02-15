@@ -1,7 +1,7 @@
 # Supervised_Learning_Challenge
 ---
 ## Overview
-This project looks to predict credit loan risk levels by comparing two models in a supervised machine learning method. It looks at classifying using logistical regression in contrast to the random forest classifier on both unscaled and scaled data. Before, during, and after this project, I made predictions on what was likely to occur.
+This project looks to predict credit loan risk levels by comparing two models in a supervised machine learning method. It looks at classifying using logistical regression in contrast to the random forest classifier on both unscaled and scaled data. Before, during, and after this project, I made predictions on what was likely to occur. Said predictions can be found below.
 
 ## Predictions
 ### Before Creating the Models on Unscaled Data
